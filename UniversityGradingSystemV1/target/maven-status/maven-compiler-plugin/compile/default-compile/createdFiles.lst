@@ -1,0 +1,16 @@
+com\example\universitygradingsystemV1\Main.class
+com\example\universitygradingsystemV1\controller\AuthController.class
+com\example\universitygradingsystemV1\model\Course.class
+com\example\universitygradingsystemV1\model\Student.class
+com\example\universitygradingsystemV1\dao\StudentDAO.class
+com\example\universitygradingsystemV1\dao\CourseDAO.class
+com\example\universitygradingsystemV1\socket\GradingSystemServer.class
+com\example\universitygradingsystemV1\controller\StudentController.class
+com\example\universitygradingsystemV1\service\CourseService.class
+com\example\universitygradingsystemV1\service\GradeService.class
+com\example\universitygradingsystemV1\socket\GradingSystemClient.class
+com\example\universitygradingsystemV1\utils\DBConnection.class
+com\example\universitygradingsystemV1\model\Grade.class
+com\example\universitygradingsystemV1\service\StudentService.class
+com\example\universitygradingsystemV1\dao\GradeDAO.class
+com\example\universitygradingsystemV1\utils\PasswordHasher.class
